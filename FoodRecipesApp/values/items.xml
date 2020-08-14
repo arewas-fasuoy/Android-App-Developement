@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items" >
+        <item>Rice Noodles</item>
+        <item>Pizza</item>
+        <item>Chinese Rice</item>
+        <item>Steak</item>
+        <item>Mashed Potatos</item>
+        <item>Chicken Curry</item>
+        <item>Roasted Vegetables</item>
+        <item>Cheeseballs</item>
+        <item>Meatballs</item>
+        <item>Lasagne</item>
+    </string-array>
+</resources>
